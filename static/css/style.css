@@ -319,6 +319,4 @@ footer a:hover { color: var(--accent); }
   h1 { font-size: 1.5rem; }
 }
 
-@media (prefers-color-scheme: dark) {
-  pre.chroma { filter: invert(0.88) hue-rotate(180deg); }
-}
+pre.chroma { background: #1e1e2e; color: #cdd6f4; }
