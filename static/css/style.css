@@ -319,4 +319,5 @@ footer a:hover { color: var(--accent); }
   h1 { font-size: 1.5rem; }
 }
 
-.highlight pre { background: #1e1e2e !important; color: #cdd6f4 !important; }
+.highlight pre { background: #f6f6f6 !important; }
+.highlight pre span { color: #1a1a1a !important; }
