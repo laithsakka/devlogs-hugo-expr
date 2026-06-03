@@ -319,4 +319,4 @@ footer a:hover { color: var(--accent); }
   h1 { font-size: 1.5rem; }
 }
 
-pre.chroma { background: #1e1e2e; color: #cdd6f4; }
+.highlight pre, pre.chroma { background: #1e1e2e !important; color: #cdd6f4; }
